@@ -1,0 +1,8 @@
+                    <h3 class="gallery-title">Título da Foto 1</h3>
+
+
+
+<div class="gallery-prices">
+                        <span class="gallery-price">R$ 99,90</span>
+                        <span class="gallery-old-price">R$ 149,90</span>
+                    </div>
