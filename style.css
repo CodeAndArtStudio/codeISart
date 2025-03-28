@@ -132,7 +132,7 @@ body {
     line-height: 1.6;
     transition: background-color 0.3s, color 0.3s;
     font-family: 'Inter', sans-serif;
-    background-image: url(/assets/imgs/background2.png) ;
+    background-image: url(./assets/imgs/background2.png) ;
     display: flex;
     justify-content: center;
     flex-direction: column;
